@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1835"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="proj.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1837"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="396.74097"
+     inkscape:cy="417.05194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1832">
+    <filter
+       id="b"
+       x="-0.061575998"
+       y="-0.01490441"
+       width="1.123152"
+       height="1.0298088">
+      <feGaussianBlur
+         stdDeviation="2.51071"
+         id="feGaussianBlur1174" />
+    </filter>
+    <radialGradient
+       id="a"
+       cx="392.48999"
+       cy="322.38"
+       r="49.179001"
+       gradientTransform="matrix(0.12511307,0,0,1.4919397,301.48771,-287.79826)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ffffe4"
+         offset="0"
+         id="stop1177" />
+      <stop
+         stop-color="#ff0"
+         offset="1"
+         id="stop1179" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(2.1147539,0,0,0.72985034,-725.56211,-86.12226)"
+       fill-rule="evenodd"
+       id="g1188"
+       style="stroke-width:0.212968">
+      <path
+         d="m 435.42,124.24 -73.571,223.57 h 25 l -49.286,180.71 85,-199.29 h -28.571 l 41.429,-205 z"
+         fill-opacity="0.39216"
+         filter="url(#b)"
+         id="path1184"
+         style="stroke-width:0.286603" />
+      <path
+         d="m 441.42,120.24 -73.571,223.57 h 25 l -49.286,180.71 85,-199.29 h -28.571 l 41.429,-205 z"
+         fill="url(#a)"
+         stroke="#000000"
+         stroke-opacity="0.62069"
+         stroke-width="0.106484"
+         id="path1186"
+         style="fill:url(#a)" />
+    </g>
+  </g>
+</svg>
